@@ -16,5 +16,5 @@ __pycache__/
 *.iml
 
 # 图片文件夹（不上传图片）
-images/
+
 output/
